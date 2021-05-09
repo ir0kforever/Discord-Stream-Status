@@ -6,7 +6,7 @@ app = Flask('')
 @app.route('/')
 
 def index():
-    return "Streaming Status : Online | NiNj4 HAX"
+    return "Streaming Status : Online | ir0kforever"
 
 def run():
     app.run(host="0.0.0.0", port=8080)
